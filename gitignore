@@ -1,0 +1,19 @@
+# Environment variables
+.env
+
+# Virtual environment
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# SQLite database (if used for audit log)
+*.db
+*.sqlite3
+
+# OS/editor junk
+.DS_Store
+.vscode/
+.idea/
