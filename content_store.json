@@ -1,0 +1,525 @@
+{
+  "4a56a2f6-53a6-4717-b2e8-8b930bf08234": {
+    "content_id": "4a56a2f6-53a6-4717-b2e8-8b930bf08234",
+    "creator_id": "test-user-1",
+    "text": "The sun dipped below the horizon, painting the sky in hues of amber and rose.",
+    "timestamp": "2026-07-07T02:15:31.644544+00:00",
+    "llm_score": 0.6,
+    "llm_reasoning": "The sentence's poetic language and cliched description of a sunset suggest a potential AI influence, but the simplicity and lack of overly complex syntax leave some uncertainty.",
+    "stylometric_score": 0.385,
+    "stylometric_components": {
+      "sentence_length_variance_score": 0.5,
+      "type_token_ratio_score": 0.222,
+      "punctuation_density_score": 0.433
+    },
+    "signal_disagreement": false,
+    "confidence": 0.514,
+    "attribution": "uncertain",
+    "label": "We couldn't confidently determine whether this content is AI-generated or human-written (confidence: 51%). Treat this result as inconclusive.",
+    "status": "under_review",
+    "appeal": {
+      "creator_reasoning": "I wrote this myself.",
+      "timestamp": "2026-07-07T02:17:14.788006+00:00"
+    }
+  },
+  "1ce234c9-df93-49ab-a2c6-c42b342aa119": {
+    "content_id": "1ce234c9-df93-49ab-a2c6-c42b342aa119",
+    "creator_id": "test-user-1",
+    "text": "PASTE CALIBRATION TEXT 1 HERE",
+    "timestamp": "2026-07-07T02:17:00.090824+00:00",
+    "llm_score": 0.5,
+    "llm_reasoning": "There is not enough text provided to make an accurate assessment of the writing style and characteristics.",
+    "stylometric_score": 0.333,
+    "stylometric_components": {
+      "sentence_length_variance_score": 0.5,
+      "type_token_ratio_score": 0.5,
+      "punctuation_density_score": 0.0
+    },
+    "signal_disagreement": false,
+    "confidence": 0.433,
+    "attribution": "uncertain",
+    "label": "We couldn't confidently determine whether this content is AI-generated or human-written (confidence: 43%). Treat this result as inconclusive.",
+    "status": "classified",
+    "appeal": null
+  },
+  "3b7b1451-e2ee-4241-97e7-1041ad632ce0": {
+    "content_id": "3b7b1451-e2ee-4241-97e7-1041ad632ce0",
+    "creator_id": "ratelimit-test",
+    "text": "Rate limit test.",
+    "timestamp": "2026-07-07T02:17:22.616997+00:00",
+    "llm_score": 0.8,
+    "llm_reasoning": "The text is extremely brief and lacks semantic coherence, tone, and specificity of detail, which are characteristics often associated with AI-generated content.",
+    "stylometric_score": 0.667,
+    "stylometric_components": {
+      "sentence_length_variance_score": 0.5,
+      "type_token_ratio_score": 0.5,
+      "punctuation_density_score": 1.0
+    },
+    "signal_disagreement": false,
+    "confidence": 0.747,
+    "attribution": "likely_ai",
+    "label": "This content is likely AI-generated (confidence: 75%).",
+    "status": "classified",
+    "appeal": null
+  },
+  "38ad634e-ed61-4782-85d0-1483975df07c": {
+    "content_id": "38ad634e-ed61-4782-85d0-1483975df07c",
+    "creator_id": "ratelimit-test",
+    "text": "Rate limit test.",
+    "timestamp": "2026-07-07T02:17:22.973973+00:00",
+    "llm_score": 0.8,
+    "llm_reasoning": "The text is extremely brief and lacks semantic coherence, tone, and specificity of detail, which are characteristics often associated with AI-generated content.",
+    "stylometric_score": 0.667,
+    "stylometric_components": {
+      "sentence_length_variance_score": 0.5,
+      "type_token_ratio_score": 0.5,
+      "punctuation_density_score": 1.0
+    },
+    "signal_disagreement": false,
+    "confidence": 0.747,
+    "attribution": "likely_ai",
+    "label": "This content is likely AI-generated (confidence: 75%).",
+    "status": "classified",
+    "appeal": null
+  },
+  "25bb29ba-98aa-4bf3-9050-c548b2956a4c": {
+    "content_id": "25bb29ba-98aa-4bf3-9050-c548b2956a4c",
+    "creator_id": "ratelimit-test",
+    "text": "Rate limit test.",
+    "timestamp": "2026-07-07T02:17:23.217922+00:00",
+    "llm_score": 0.9,
+    "llm_reasoning": "The text is extremely brief and lacks semantic coherence, tone, and specificity of detail, which are characteristics often associated with AI-generated content.",
+    "stylometric_score": 0.667,
+    "stylometric_components": {
+      "sentence_length_variance_score": 0.5,
+      "type_token_ratio_score": 0.5,
+      "punctuation_density_score": 1.0
+    },
+    "signal_disagreement": false,
+    "confidence": 0.807,
+    "attribution": "likely_ai",
+    "label": "This content is likely AI-generated (confidence: 81%).",
+    "status": "classified",
+    "appeal": null
+  },
+  "cf0c081b-fdfb-4d39-84c9-6ae2579d071f": {
+    "content_id": "cf0c081b-fdfb-4d39-84c9-6ae2579d071f",
+    "creator_id": "ratelimit-test",
+    "text": "Rate limit test.",
+    "timestamp": "2026-07-07T02:17:23.508570+00:00",
+    "llm_score": 0.9,
+    "llm_reasoning": "The text is extremely brief and lacks semantic coherence, tone, and specificity of detail, which are all characteristic of AI-generated content.",
+    "stylometric_score": 0.667,
+    "stylometric_components": {
+      "sentence_length_variance_score": 0.5,
+      "type_token_ratio_score": 0.5,
+      "punctuation_density_score": 1.0
+    },
+    "signal_disagreement": false,
+    "confidence": 0.807,
+    "attribution": "likely_ai",
+    "label": "This content is likely AI-generated (confidence: 81%).",
+    "status": "classified",
+    "appeal": null
+  },
+  "0d26aa74-2578-4c9b-88cc-92774e3c7b21": {
+    "content_id": "0d26aa74-2578-4c9b-88cc-92774e3c7b21",
+    "creator_id": "ratelimit-test",
+    "text": "Rate limit test.",
+    "timestamp": "2026-07-07T02:17:23.862377+00:00",
+    "llm_score": 0.8,
+    "llm_reasoning": "The text is extremely brief and lacks semantic coherence, tone, and specificity of detail, which are characteristics often associated with AI-generated content.",
+    "stylometric_score": 0.667,
+    "stylometric_components": {
+      "sentence_length_variance_score": 0.5,
+      "type_token_ratio_score": 0.5,
+      "punctuation_density_score": 1.0
+    },
+    "signal_disagreement": false,
+    "confidence": 0.747,
+    "attribution": "likely_ai",
+    "label": "This content is likely AI-generated (confidence: 75%).",
+    "status": "classified",
+    "appeal": null
+  },
+  "15f46c52-ebeb-48d3-ae83-b355c6a97830": {
+    "content_id": "15f46c52-ebeb-48d3-ae83-b355c6a97830",
+    "creator_id": "ratelimit-test",
+    "text": "Rate limit test.",
+    "timestamp": "2026-07-07T02:17:24.209788+00:00",
+    "llm_score": 0.8,
+    "llm_reasoning": "The text is extremely brief and lacks semantic coherence, tone, and specificity of detail, which are characteristics often associated with AI-generated content.",
+    "stylometric_score": 0.667,
+    "stylometric_components": {
+      "sentence_length_variance_score": 0.5,
+      "type_token_ratio_score": 0.5,
+      "punctuation_density_score": 1.0
+    },
+    "signal_disagreement": false,
+    "confidence": 0.747,
+    "attribution": "likely_ai",
+    "label": "This content is likely AI-generated (confidence: 75%).",
+    "status": "classified",
+    "appeal": null
+  },
+  "eed18e16-0a5b-4d7d-90aa-59988cc53e00": {
+    "content_id": "eed18e16-0a5b-4d7d-90aa-59988cc53e00",
+    "creator_id": "ratelimit-test",
+    "text": "Rate limit test.",
+    "timestamp": "2026-07-07T02:17:24.613674+00:00",
+    "llm_score": 0.9,
+    "llm_reasoning": "The text is extremely brief and lacks semantic coherence, tone, and specificity of detail, which are all characteristic of AI-generated content.",
+    "stylometric_score": 0.667,
+    "stylometric_components": {
+      "sentence_length_variance_score": 0.5,
+      "type_token_ratio_score": 0.5,
+      "punctuation_density_score": 1.0
+    },
+    "signal_disagreement": false,
+    "confidence": 0.807,
+    "attribution": "likely_ai",
+    "label": "This content is likely AI-generated (confidence: 81%).",
+    "status": "classified",
+    "appeal": null
+  },
+  "aa0d63df-7daa-463b-8315-42c43e0072e9": {
+    "content_id": "aa0d63df-7daa-463b-8315-42c43e0072e9",
+    "creator_id": "ratelimit-test",
+    "text": "Rate limit test.",
+    "timestamp": "2026-07-07T02:17:24.863175+00:00",
+    "llm_score": 0.9,
+    "llm_reasoning": "The text is extremely brief and lacks semantic coherence, tone, and specificity of detail, which are characteristics often associated with AI-generated content.",
+    "stylometric_score": 0.667,
+    "stylometric_components": {
+      "sentence_length_variance_score": 0.5,
+      "type_token_ratio_score": 0.5,
+      "punctuation_density_score": 1.0
+    },
+    "signal_disagreement": false,
+    "confidence": 0.807,
+    "attribution": "likely_ai",
+    "label": "This content is likely AI-generated (confidence: 81%).",
+    "status": "classified",
+    "appeal": null
+  },
+  "9dc1fd05-b1ec-4d35-8cc2-072949bc70ca": {
+    "content_id": "9dc1fd05-b1ec-4d35-8cc2-072949bc70ca",
+    "creator_id": "ratelimit-test",
+    "text": "Rate limit test.",
+    "timestamp": "2026-07-07T02:17:25.214375+00:00",
+    "llm_score": 0.8,
+    "llm_reasoning": "The text is extremely brief and lacks semantic coherence, tone, and specificity of detail, which are characteristics often associated with AI-generated content.",
+    "stylometric_score": 0.667,
+    "stylometric_components": {
+      "sentence_length_variance_score": 0.5,
+      "type_token_ratio_score": 0.5,
+      "punctuation_density_score": 1.0
+    },
+    "signal_disagreement": false,
+    "confidence": 0.747,
+    "attribution": "likely_ai",
+    "label": "This content is likely AI-generated (confidence: 75%).",
+    "status": "classified",
+    "appeal": null
+  },
+  "bbf24b73-3f36-430d-a055-aca6830aa6b9": {
+    "content_id": "bbf24b73-3f36-430d-a055-aca6830aa6b9",
+    "creator_id": "calibration-1",
+    "text": "Artificial intelligence represents a transformative paradigm shift in modern society. It is important to note that while the benefits of AI are numerous, it is equally essential to consider the ethical implications. Furthermore, stakeholders across various sectors must collaborate to ensure responsible deployment.",
+    "timestamp": "2026-07-07T02:27:24.157230+00:00",
+    "llm_score": 0.8,
+    "llm_reasoning": "The text's overly formal tone, lack of specific details, and reliance on generic phrases suggest a high likelihood of AI generation.",
+    "stylometric_score": 0.36,
+    "stylometric_components": {
+      "sentence_length_variance_score": 0.621,
+      "type_token_ratio_score": 0.194,
+      "punctuation_density_score": 0.265
+    },
+    "signal_disagreement": true,
+    "confidence": 0.562,
+    "attribution": "uncertain",
+    "label": "We couldn't confidently determine whether this content is AI-generated or human-written (confidence: 56%). Treat this result as inconclusive.",
+    "status": "classified",
+    "appeal": null
+  },
+  "efda00f6-f717-49eb-a954-8e307d6b4673": {
+    "content_id": "efda00f6-f717-49eb-a954-8e307d6b4673",
+    "creator_id": "calibration-1",
+    "text": "Artificial intelligence represents a transformative paradigm shift in modern society. It is important to note that while the benefits of AI are numerous, it is equally essential to consider the ethical implications. Furthermore, stakeholders across various sectors must collaborate to ensure responsible deployment.",
+    "timestamp": "2026-07-07T02:28:04.466858+00:00",
+    "llm_score": 0.8,
+    "llm_reasoning": "The text's overly formal tone, lack of specific details, and generic phrasing suggest a high likelihood of AI generation.",
+    "stylometric_score": 0.36,
+    "stylometric_components": {
+      "sentence_length_variance_score": 0.621,
+      "type_token_ratio_score": 0.194,
+      "punctuation_density_score": 0.265
+    },
+    "signal_disagreement": true,
+    "confidence": 0.562,
+    "attribution": "uncertain",
+    "label": "We couldn't confidently determine whether this content is AI-generated or human-written (confidence: 56%). Treat this result as inconclusive.",
+    "status": "classified",
+    "appeal": null
+  },
+  "6723af0b-3020-4161-8785-c0df376a92ea": {
+    "content_id": "6723af0b-3020-4161-8785-c0df376a92ea",
+    "creator_id": "calibration-2",
+    "text": "ok so i finally tried that new ramen place downtown and honestly? underwhelming. the broth was fine but they put WAY too much sodium in it and i was thirsty for like three hours after. my friend got the spicy version and said it was better. probably wont go back unless someone drags me there",
+    "timestamp": "2026-07-07T02:28:14.913981+00:00",
+    "llm_score": 0.2,
+    "llm_reasoning": "The text's use of colloquial language, personal experience, and subjective opinion, such as the casual tone and specific details about the ramen, suggest a human writer.",
+    "stylometric_score": 0.257,
+    "stylometric_components": {
+      "sentence_length_variance_score": 0.389,
+      "type_token_ratio_score": 0.212,
+      "punctuation_density_score": 0.171
+    },
+    "signal_disagreement": false,
+    "confidence": 0.223,
+    "attribution": "likely_human",
+    "label": "This content appears to be human-written (confidence: 22%).",
+    "status": "classified",
+    "appeal": null
+  },
+  "35c57669-ebbf-4251-af14-9d07ffe51588": {
+    "content_id": "35c57669-ebbf-4251-af14-9d07ffe51588",
+    "creator_id": "calibration-3",
+    "text": "The relationship between monetary policy and asset price inflation has been extensively studied in the literature. Central banks face a fundamental tension between their mandate for price stability and the unintended consequences of prolonged low interest rates on equity and real estate valuations.",
+    "timestamp": "2026-07-07T02:28:33.241293+00:00",
+    "llm_score": 0.7,
+    "llm_reasoning": "The text's formal tone, lack of personal opinion, and reliance on general statements about economic concepts suggest a high likelihood of AI generation, but the coherence and specificity of the topic are not unusual for human-written academic texts.",
+    "stylometric_score": 0.363,
+    "stylometric_components": {
+      "sentence_length_variance_score": 0.744,
+      "type_token_ratio_score": 0.233,
+      "punctuation_density_score": 0.111
+    },
+    "signal_disagreement": false,
+    "confidence": 0.565,
+    "attribution": "uncertain",
+    "label": "We couldn't confidently determine whether this content is AI-generated or human-written (confidence: 56%). Treat this result as inconclusive.",
+    "status": "classified",
+    "appeal": null
+  },
+  "1b01864f-1136-44d6-a4bc-70ea88e6901d": {
+    "content_id": "1b01864f-1136-44d6-a4bc-70ea88e6901d",
+    "creator_id": "calibration-4",
+    "text": "I have been thinking a lot about remote work lately. There are genuine tradeoffs - flexibility and no commute on one side, isolation and blurred work-life boundaries on the other. Studies show productivity varies widely by individual and role type.",
+    "timestamp": "2026-07-07T02:28:41.910838+00:00",
+    "llm_score": 0.4,
+    "llm_reasoning": "The text exhibits a balanced and nuanced discussion of remote work, with a tone and language that could plausibly come from either a human or an AI model, but the simplicity and lack of highly specific details or personal anecdotes lean slightly towards human authorship.",
+    "stylometric_score": 0.361,
+    "stylometric_components": {
+      "sentence_length_variance_score": 0.646,
+      "type_token_ratio_score": 0.167,
+      "punctuation_density_score": 0.269
+    },
+    "signal_disagreement": false,
+    "confidence": 0.384,
+    "attribution": "uncertain",
+    "label": "We couldn't confidently determine whether this content is AI-generated or human-written (confidence: 38%). Treat this result as inconclusive.",
+    "status": "classified",
+    "appeal": null
+  },
+  "e891c199-05e9-4a6b-9a82-1b9e36d50bbd": {
+    "content_id": "e891c199-05e9-4a6b-9a82-1b9e36d50bbd",
+    "creator_id": "ratelimit-test-clean",
+    "text": "Rate limit test.",
+    "timestamp": "2026-07-07T02:32:11.052854+00:00",
+    "llm_score": 0.8,
+    "llm_reasoning": "The text is extremely brief and lacks semantic coherence, tone, and specificity of detail, which are characteristics often associated with AI-generated content.",
+    "stylometric_score": 0.667,
+    "stylometric_components": {
+      "sentence_length_variance_score": 0.5,
+      "type_token_ratio_score": 0.5,
+      "punctuation_density_score": 1.0
+    },
+    "signal_disagreement": false,
+    "confidence": 0.747,
+    "attribution": "likely_ai",
+    "label": "This content is likely AI-generated (confidence: 75%).",
+    "status": "classified",
+    "appeal": null
+  },
+  "96fdcad3-f439-4ed8-92f0-efaf9ccf0b05": {
+    "content_id": "96fdcad3-f439-4ed8-92f0-efaf9ccf0b05",
+    "creator_id": "ratelimit-test-clean",
+    "text": "Rate limit test.",
+    "timestamp": "2026-07-07T02:32:11.352898+00:00",
+    "llm_score": 0.8,
+    "llm_reasoning": "The text is extremely brief and lacks semantic coherence, tone, and specificity of detail, which are characteristics often associated with AI-generated content.",
+    "stylometric_score": 0.667,
+    "stylometric_components": {
+      "sentence_length_variance_score": 0.5,
+      "type_token_ratio_score": 0.5,
+      "punctuation_density_score": 1.0
+    },
+    "signal_disagreement": false,
+    "confidence": 0.747,
+    "attribution": "likely_ai",
+    "label": "This content is likely AI-generated (confidence: 75%).",
+    "status": "classified",
+    "appeal": null
+  },
+  "4325b141-5ca8-4051-8abd-1e99451ebc04": {
+    "content_id": "4325b141-5ca8-4051-8abd-1e99451ebc04",
+    "creator_id": "ratelimit-test-clean",
+    "text": "Rate limit test.",
+    "timestamp": "2026-07-07T02:32:11.615887+00:00",
+    "llm_score": 0.9,
+    "llm_reasoning": "The text is extremely brief and lacks semantic coherence, tone, and specificity of detail, which are all characteristic of AI-generated content.",
+    "stylometric_score": 0.667,
+    "stylometric_components": {
+      "sentence_length_variance_score": 0.5,
+      "type_token_ratio_score": 0.5,
+      "punctuation_density_score": 1.0
+    },
+    "signal_disagreement": false,
+    "confidence": 0.807,
+    "attribution": "likely_ai",
+    "label": "This content is likely AI-generated (confidence: 81%).",
+    "status": "classified",
+    "appeal": null
+  },
+  "24bc6552-ec4c-4b2e-ae51-4cc2c26a9931": {
+    "content_id": "24bc6552-ec4c-4b2e-ae51-4cc2c26a9931",
+    "creator_id": "ratelimit-test-clean",
+    "text": "Rate limit test.",
+    "timestamp": "2026-07-07T02:32:11.938135+00:00",
+    "llm_score": 0.9,
+    "llm_reasoning": "The text is extremely brief and lacks semantic coherence, tone, and specificity of detail, which are characteristics often associated with AI-generated content.",
+    "stylometric_score": 0.667,
+    "stylometric_components": {
+      "sentence_length_variance_score": 0.5,
+      "type_token_ratio_score": 0.5,
+      "punctuation_density_score": 1.0
+    },
+    "signal_disagreement": false,
+    "confidence": 0.807,
+    "attribution": "likely_ai",
+    "label": "This content is likely AI-generated (confidence: 81%).",
+    "status": "classified",
+    "appeal": null
+  },
+  "352db964-badc-4e5a-998a-153af8f78f70": {
+    "content_id": "352db964-badc-4e5a-998a-153af8f78f70",
+    "creator_id": "ratelimit-test-clean",
+    "text": "Rate limit test.",
+    "timestamp": "2026-07-07T02:32:12.272723+00:00",
+    "llm_score": 0.9,
+    "llm_reasoning": "The text is extremely brief and lacks semantic coherence, tone, and specificity of detail, which are characteristics often associated with AI-generated content.",
+    "stylometric_score": 0.667,
+    "stylometric_components": {
+      "sentence_length_variance_score": 0.5,
+      "type_token_ratio_score": 0.5,
+      "punctuation_density_score": 1.0
+    },
+    "signal_disagreement": false,
+    "confidence": 0.807,
+    "attribution": "likely_ai",
+    "label": "This content is likely AI-generated (confidence: 81%).",
+    "status": "classified",
+    "appeal": null
+  },
+  "d266626a-c5db-4b22-a439-63982e7d037f": {
+    "content_id": "d266626a-c5db-4b22-a439-63982e7d037f",
+    "creator_id": "ratelimit-test-clean",
+    "text": "Rate limit test.",
+    "timestamp": "2026-07-07T02:32:12.578239+00:00",
+    "llm_score": 0.8,
+    "llm_reasoning": "The text is extremely brief and lacks semantic coherence, tone, and specificity of detail, which are characteristics often associated with AI-generated content.",
+    "stylometric_score": 0.667,
+    "stylometric_components": {
+      "sentence_length_variance_score": 0.5,
+      "type_token_ratio_score": 0.5,
+      "punctuation_density_score": 1.0
+    },
+    "signal_disagreement": false,
+    "confidence": 0.747,
+    "attribution": "likely_ai",
+    "label": "This content is likely AI-generated (confidence: 75%).",
+    "status": "classified",
+    "appeal": null
+  },
+  "292be63f-9c87-4d38-8299-a580a526d5cf": {
+    "content_id": "292be63f-9c87-4d38-8299-a580a526d5cf",
+    "creator_id": "ratelimit-test-clean",
+    "text": "Rate limit test.",
+    "timestamp": "2026-07-07T02:32:12.993098+00:00",
+    "llm_score": 0.8,
+    "llm_reasoning": "The text is extremely brief and lacks semantic coherence, tone, and specificity of detail, which are characteristics often associated with AI-generated content.",
+    "stylometric_score": 0.667,
+    "stylometric_components": {
+      "sentence_length_variance_score": 0.5,
+      "type_token_ratio_score": 0.5,
+      "punctuation_density_score": 1.0
+    },
+    "signal_disagreement": false,
+    "confidence": 0.747,
+    "attribution": "likely_ai",
+    "label": "This content is likely AI-generated (confidence: 75%).",
+    "status": "classified",
+    "appeal": null
+  },
+  "2cf14ff6-c86f-4fef-b333-2fcce7752a9e": {
+    "content_id": "2cf14ff6-c86f-4fef-b333-2fcce7752a9e",
+    "creator_id": "ratelimit-test-clean",
+    "text": "Rate limit test.",
+    "timestamp": "2026-07-07T02:32:13.334165+00:00",
+    "llm_score": 0.8,
+    "llm_reasoning": "The text is extremely brief and lacks semantic coherence, tone, and specificity of detail, which are characteristics often associated with AI-generated content.",
+    "stylometric_score": 0.667,
+    "stylometric_components": {
+      "sentence_length_variance_score": 0.5,
+      "type_token_ratio_score": 0.5,
+      "punctuation_density_score": 1.0
+    },
+    "signal_disagreement": false,
+    "confidence": 0.747,
+    "attribution": "likely_ai",
+    "label": "This content is likely AI-generated (confidence: 75%).",
+    "status": "classified",
+    "appeal": null
+  },
+  "31631444-1ee1-4435-aa6e-b8021dd3bf9d": {
+    "content_id": "31631444-1ee1-4435-aa6e-b8021dd3bf9d",
+    "creator_id": "ratelimit-test-clean",
+    "text": "Rate limit test.",
+    "timestamp": "2026-07-07T02:32:13.751402+00:00",
+    "llm_score": 0.8,
+    "llm_reasoning": "The text is extremely brief and lacks semantic coherence, tone, and specificity of detail, which are characteristics often associated with AI-generated content.",
+    "stylometric_score": 0.667,
+    "stylometric_components": {
+      "sentence_length_variance_score": 0.5,
+      "type_token_ratio_score": 0.5,
+      "punctuation_density_score": 1.0
+    },
+    "signal_disagreement": false,
+    "confidence": 0.747,
+    "attribution": "likely_ai",
+    "label": "This content is likely AI-generated (confidence: 75%).",
+    "status": "classified",
+    "appeal": null
+  },
+  "cefce9d8-5a91-4c52-a9eb-1d3fbaf93c39": {
+    "content_id": "cefce9d8-5a91-4c52-a9eb-1d3fbaf93c39",
+    "creator_id": "ratelimit-test-clean",
+    "text": "Rate limit test.",
+    "timestamp": "2026-07-07T02:32:14.093094+00:00",
+    "llm_score": 0.9,
+    "llm_reasoning": "The text is extremely brief and lacks semantic coherence, tone, and specificity of detail, which are all characteristic of AI-generated content.",
+    "stylometric_score": 0.667,
+    "stylometric_components": {
+      "sentence_length_variance_score": 0.5,
+      "type_token_ratio_score": 0.5,
+      "punctuation_density_score": 1.0
+    },
+    "signal_disagreement": false,
+    "confidence": 0.807,
+    "attribution": "likely_ai",
+    "label": "This content is likely AI-generated (confidence: 81%).",
+    "status": "classified",
+    "appeal": null
+  }
+}
